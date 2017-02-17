@@ -12,7 +12,7 @@ title: info
 	email: '0x172.mail@gmail.com',
 
 	skills: [
-	  ['html', 'css', 'javascript'],
+	  ['html', 'css', 'js'],
 	  ['python', 'cpp'],
 	  ['data structure'],
 	  ['git'],
