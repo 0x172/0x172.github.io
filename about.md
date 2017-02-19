@@ -3,7 +3,7 @@ layout: page
 title: info
 ---
 
-<pre><code>
+{% highlight %}
 {
 	name: '黄晓帆 / 0x172',
 	gender: '男',
@@ -23,10 +23,4 @@ title: info
 
 	experience: '北京华商智联科技有限公司，2015.4-2015.9，实习，使用zeptojs'
 }
-</code></pre>
-
----
-
-另外请原谅页面简陋，招待不周
-
----
+{% endhighlight %}
